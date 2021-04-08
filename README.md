@@ -1,4 +1,4 @@
-# MIDAS-Category-Predictions-Task-NLP
+# NLP-Category-Predictions-Task
 
 ## Repository Structure
 * <strong>Exploratory-Data-Analysis.ipynb</strong> - File containting <strong>data analysis and preprocessing</strong>
