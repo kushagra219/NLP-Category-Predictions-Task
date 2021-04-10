@@ -1,12 +1,13 @@
 # NLP-Category-Predictions-Task
 
 ## Repository Structure
+* <strong>Report.pdf</strong> - File containing detailed analysis & results of the task 
 * <strong>Exploratory-Data-Analysis.ipynb</strong> - File containting <strong>data analysis and preprocessing & results (Main File)</strong>
 * <strong>ML-Models-Implementation.ipynb</strong> - File containing <strong>implementation of ML models</strong>
 * <strong>Deep-Learning-Approach.ipynb</strong> - File containing the use of <strong>deep neural networks</strong> for predictions
 * <strong>dataset/</strong> - Original Dataset
 * <strong>clean-dataset/</strong> - Data after Cleaning and Preprocessing
-* <strong>trained-models/</strong> - Pickle/Directory of trained models
+* <strong>trained-models/</strong> - Pickle File/Directory of trained models
 
 ## Reproducing the Development Environment
 * Clone this repository.
