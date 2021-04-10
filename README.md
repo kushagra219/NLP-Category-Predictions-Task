@@ -1,9 +1,12 @@
 # NLP-Category-Predictions-Task
 
 ## Repository Structure
-* <strong>Exploratory-Data-Analysis.ipynb</strong> - File containting <strong>data analysis and preprocessing</strong>
+* <strong>Exploratory-Data-Analysis.ipynb</strong> - File containting <strong>data analysis and preprocessing & results (Main File)</strong>
 * <strong>ML-Models-Implementation.ipynb</strong> - File containing <strong>implementation of ML models</strong>
-* <strong>Deep-Learning-Approach</strong> - File containing the use of <strong>deep neural networks</strong> for predictions
+* <strong>Deep-Learning-Approach.ipynb</strong> - File containing the use of <strong>deep neural networks</strong> for predictions
+* <strong>dataset/</strong> - Original Dataset
+* <strong>clean-dataset/</strong> - Data after Cleaning and Preprocessing
+* <strong>trained-models/</strong> - Pickle/Directory of trained models
 
 ## Reproducing the Development Environment
 * Clone this repository.
@@ -13,12 +16,31 @@
         pip install -r requirements.txt
 ~~~
 
-## Results Acheived 
-<img src="Screenshots/results.PNG">
+## Results Acheived (Decreasing order of Test Accuracy)
+<img src="assets/results.PNG">
+
+## Top 10 models with Highest Test Accuracy
+<img src="assets/top-models.perf.PNG">
 
 ## Citations
-* https://thinkinfi.com/complete-guide-for-natural-language-processing-in-python/
-* https://towardsdatascience.com/ml-powered-product-categorization-for-smart-shopping-options-8f10d78e3294
+* https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/
+* https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling
+-in-python/
+* https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-impl
+ement-natural-language-processing-codes-in-python/
+* https://pub.towardsai.net/natural-language-processing-nlp-with-python-tutorial-for
+-beginners-1f54e610a1a0
+* https://www.machinelearningplus.com/nlp/natural-language-processing-guide/
+* https://towardsdatascience.com/ml-powered-product-categorization-for-smart-sh
+opping-options-8f10d78e3294
+* https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-impl
+ement-natural-language-processing-codes-in-python/
+* https://medium.com/text-classification-algorithms/text-classification-algorithms-asurvey-a215b7ab7e2d
 * https://neptune.ai/blog/text-classification-tips-and-tricks-kaggle-competitions
-* https://towardsdatascience.com/model-selection-in-text-classification-ac13eedf6146
-* https://machinelearningmastery.com/xgboost-for-imbalanced-classification/#:~:text=The%20XGBoost%20algorithm%20is%20effective,over%20the%20model%20training%20procedure.
+* https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-to
+ols
+* https://machinelearningmastery.com/xgboost-for-imbalanced-classification/#:~:te
+xt=The%20XGBoost%20algorithm%20is%20effective,over%20the%20model%20
+training%20procedure.
+* https://medium.datadriveninvestor.com/deep-learning-techniques-for-text-classific
+ation-9392ca9492c7
