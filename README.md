@@ -1,4 +1,5 @@
 # NLP-Category-Predictions-Task
+<img src="https://img.shields.io/github/stars/kushagra219/NLP-Category-Predictions-Task?style=social"> <img src="https://img.shields.io/github/forks/kushagra219/NLP-Category-Predictions-Task?style=social"> <img src="https://img.shields.io/badge/made%20by-Kushagra%20Garg-blue"> <img src="https://img.shields.io/tokei/lines/github/kushagra219/NLP-Category-Predictions-Task">  <img src="https://img.shields.io/github/repo-size/kushagra219/NLP-Category-Predictions-Task">
 
 ## Repository Structure
 * <strong>Report.pdf</strong> - File containing detailed analysis & results of the task 
